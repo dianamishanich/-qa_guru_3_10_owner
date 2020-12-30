@@ -1,5 +1,6 @@
 package io.github.dianamishanich;
 
+import io.github.dianamishanich.ApiConfig;
 import org.aeonbits.owner.ConfigFactory;
 import org.junit.jupiter.api.Test;
 
